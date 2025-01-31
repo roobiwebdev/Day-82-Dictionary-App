@@ -12,7 +12,7 @@ const StartScreen = () => {
           isDarkMode ? "text-white" : "text-2D2D2D"
         }`}
       >
-        Welcome to&nbsp;
+        Welcome To&nbsp;
         <span className="text-a445ed">
           <a href="https://github.com/roobiwebdev" target="_blank">
             DevNerd's
