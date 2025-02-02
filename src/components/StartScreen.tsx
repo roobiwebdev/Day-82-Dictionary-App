@@ -15,7 +15,7 @@ const StartScreen = () => {
         Welcome To&nbsp;
         <span className="text-a445ed">
           <a href="https://github.com/roobiwebdev" target="_blank">
-            DevNerd's
+            Roobi's
           </a>
         </span>
         &nbsp;Dictionary App
