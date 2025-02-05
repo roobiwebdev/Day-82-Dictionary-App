@@ -8,7 +8,6 @@ function App() {
   const serifFont = font === "serif" ? "font-serif" : "";
   const sansFont = font === "sans-serif" ? "font-sans-serif" : "";
   const monoFont = font === "mono" ? "font-mono" : "";
-
   return (
     <DictionaryProvider>
       <main
