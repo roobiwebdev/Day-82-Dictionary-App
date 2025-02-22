@@ -2,7 +2,6 @@ I built an awesome dictionary app using TypeScript, It fetches words meaning fro
 
 [Live Link](https://day-82-dictionary-app.vercel.app/)
 
-
 ![Screenshot From 2025-01-31 05-24-01](https://github.com/user-attachments/assets/69c6c00c-13be-4368-bb76-eaec23564766)
 
 ![Screenshot From 2025-01-31 06-04-01](https://github.com/user-attachments/assets/319af5b2-e2ee-46df-8b06-47598606072a)
